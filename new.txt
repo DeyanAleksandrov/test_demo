@@ -1,3 +1,7 @@
 HiDeyan
 Changing
+<<<<<<< HEAD
 text from master
+=======
+Some text
+>>>>>>> test1
